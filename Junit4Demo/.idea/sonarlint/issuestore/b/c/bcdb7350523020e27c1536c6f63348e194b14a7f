@@ -1,0 +1,6 @@
+
+Ysquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Ş½Ş«ó,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(£ì·8öôß«ó,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(«ßÏûúÿÿÿÿ8Éß«ó,
